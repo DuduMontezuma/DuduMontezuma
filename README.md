@@ -1,7 +1,6 @@
 ### Olá! Eu sou o Dudu Montezuma 👋
 
 
-- 🔭 Procurando um emprego
 - 🌱 Estudando Django
 - 📫 Contate-me no email: contatodudumontezuma@gmail.com
 
