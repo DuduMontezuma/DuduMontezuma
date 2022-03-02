@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Dudu Montezuma 👋
 
 
-- 🌱 Estudando Django
+- 🌱 Estudando Python Orientado a Objetos
 - 📫 Contate-me no email: contatodudumontezuma@gmail.com
 
 <div align="center">
