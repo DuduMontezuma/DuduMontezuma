@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Dudu Montezuma 👋
 
-
-- 🌱 Estudando Python Orientado a Objetos
+- Dev Python
+- Estudando Fullstack Web
 - 📫 Contate-me no email: contatodudumontezuma@gmail.com
 
 <div align="center">
