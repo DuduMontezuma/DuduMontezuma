@@ -1,8 +1,7 @@
 ### Olá! Eu sou o Dudu Montezuma 👋
 
-- Dev Python
-- Estudando Fullstack Web
-- 📫 Contate-me no email: contatodudumontezuma@gmail.com
+- Estudante de Java
+- 📫 Contate-me no email: carlos15montezuma@gmail.com
 
 <div align="center">
   <a href="https://github.com/DuduMontezuma">
