@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Dudu Montezuma 👋
 
-- Estudante de Engenharia de Software
+- Estudante de FrontEnd
 - 📫 Contate-me no email: carlos15montezuma@gmail.com
 
 <div align="center">
