@@ -1,13 +1,13 @@
 ### Olá! Eu sou o Dudu Montezuma 👋
 
-- Estudante de FrontEnd
+- Programador Fullstack
 - 📫 Contate-me no email: carlos15montezuma@gmail.com
 
-<div align="center">
+<!--<div align="center">
   <a href="https://github.com/DuduMontezuma">
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=DuduMontezuma&show_icons=true&theme=dark&title_color=67d136&text_color=fcfcfc&include_all_commits=true&count_private=true"/>
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DuduMontezuma&layout=compact&langs_count=7&theme=dark&text_color=fcfcfc&title_color=67d136"/>
-</div>
+</div>-->
  
 <div style="display: inline_block"><br>
   <!--<img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">-->
