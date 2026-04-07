@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  Software Engineer | PHP • Laravel • SQL
+  Software Engineer | PHP • Laravel • SQL | JavaScript
 </p>
 
 ---
